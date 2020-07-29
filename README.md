@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=410px height=465px/>
+<img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Just a pic" width=410px height=465px/>
 
 - 🔭 I’m currently a second year student in Software Engineering course at University of Malaya,Malaysia.
 - 🌱 I’m currently learning frontend web development and databases management.
@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: azizihr2000@gmail.com
 - 😄 Pronouns: A happy tummy is a happy me😎😂
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/>
+<img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width=1000px height=200px/>
