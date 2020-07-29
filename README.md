@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: azizihr2000@gmail.com
 - 😄 Pronouns: A happy tummy is a happy me😎😂
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
+> "The way to get started is to quit talking and begin doing." -Walt Disney
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/>
 <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width=1000px height=200px/>
+
+
