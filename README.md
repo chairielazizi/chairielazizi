@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+<img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=410px height=465px/>
 
 - 🔭 I’m currently a second year student in Software Engineering course at University of Malaya,Malaysia.
 - 🌱 I’m currently learning frontend web development and databases management.
