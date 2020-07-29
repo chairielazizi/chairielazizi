@@ -1,4 +1,4 @@
-### Hi there 👋
+# Heyya guyss 👋
 
 <!--
 **chairielazizi/chairielazizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a second year student in Software Engineering course at University of Malaya,Malaysia.
+- 🌱 I’m currently learning frontend web development and databases management.
+- 👯 I’m looking to collaborate on any project, games development and mobile app as it can increase my knowledge in this field.
+- 🤔 I’m looking for help with learning the basic frameworks for CSS and JavaScript(perhaps Bootstrap 5 and React).
+- 📫 How to reach me: azizihr2000@gmail.com
+- 😄 Pronouns: A happy tummy is a happy me😎😂
+- ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
