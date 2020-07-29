@@ -2,7 +2,7 @@
 
 <!--
 **chairielazizi/chairielazizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  ![developer](https://t3.ftcdn.net/jpg/02/24/60/00/240_F_224600069_W7lxO3jE7CZ5s3izuhIoK5uSrDUz9x6W.jpg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://t3.ftcdn.net/jpg/02/24/60/00/240_F_224600069_W7lxO3jE7CZ5s3izuhIoK5uSrDUz9x6W.jpg" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+
 - 🔭 I’m currently a second year student in Software Engineering course at University of Malaya,Malaysia.
 - 🌱 I’m currently learning frontend web development and databases management.
 - 👯 I’m looking to collaborate on any project, games development and mobile app as it can increase my knowledge in this field.
