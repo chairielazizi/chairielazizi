@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Just a pic" width=380px height=415px/>
+<img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Just a pic" width=360px height=415px/>
 
 - 🔭 I’m currently a second year student in Software Engineering course at University of Malaya,Malaysia.
 - 🌱 I’m currently learning frontend web development and databases management.
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: azizihr2000@gmail.com
 - 😄 Happy me? : A happy tummy is a happy me😎
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
+- 💻 Languages : Java, Node.js, Dart(Flutter) and Go
 > "The way to get started is to quit talking and begin doing." -Walt Disney
 <br/>
 
