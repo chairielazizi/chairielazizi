@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: azizihr2000@gmail.com
 - 😄 Happy me? : A happy tummy is a happy me😎
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
-- 💻 Languages : Java, Node.js, Dart(Flutter) and Go
+- 💻 Languages : Java, Node.js, Dart(Flutter), Python and Go
 - 💀 Skills : MySQL, PostgreSQL, ReactJS, Flutter
 > "The way to get started is to quit talking and begin doing." -Walt Disney
 <br/>
