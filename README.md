@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+photo_2019-09-07_21-28-45.jpg
 -->
 
 <img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Just a pic" width=360px height=415px/>
+
 
 - 🔭 I’m currently a second year student in Software Engineering course at University of Malaya,Malaysia.
 - 🌱 I’m currently learning frontend web development and databases management.
@@ -44,5 +46,6 @@ E-mail: azizihr2000@gmail.com <br/>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
 <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width=1000px height=200px/>
+<img align="center" src="https://github.com/chairielazizi/chairielazizi/blob/master/photo_2019-09-07_21-28-45.jpg" alt="Just a pic" width=1000px height=700px/>
 
 
