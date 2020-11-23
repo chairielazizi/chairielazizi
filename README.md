@@ -26,8 +26,8 @@ photo_2019-09-07_21-28-45.jpg
 - 📫 How to reach me: azizihr2000@gmail.com
 - 😄 Happy me? : A happy tummy is a happy me😎
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
-- 💻 Languages : Java, Node.js, Dart(Flutter), Python, Go
-- 💀 Skills : MySQL, PostgreSQL, ReactJS, Flutter
+- 💻 Languages : Java, Node.js, Python, Go
+- 💀 Skills : MySQL, PostgreSQL, ReactJS
 > "The way to get started is to quit talking and begin doing." -Walt Disney
 <br/>
 
@@ -46,6 +46,6 @@ E-mail: azizihr2000@gmail.com <br/>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
 <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width=1000px height=200px/>
-<img align="center" src="https://github.com/chairielazizi/chairielazizi/blob/master/photo_2019-09-07_21-28-45.jpg" alt="Just a pic" width=1000px height=700px/>
+<!-- <img align="center" src="https://github.com/chairielazizi/chairielazizi/blob/master/photo_2019-09-07_21-28-45.jpg" alt="Just a pic" width=1000px height=700px/> --->
 
 
