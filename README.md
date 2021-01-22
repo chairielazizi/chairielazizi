@@ -46,6 +46,10 @@ E-mail: azizihr2000@gmail.com <br/>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
 <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width=1000px height=200px/>
+
+<img align="right" alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=jolly" />
+
+<img align="left" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=jolly&hide=Swift,Kotlin,Objective-C,HTML,Tex,c%23,jupyter%20notebook,&layout=compact" />
 <!-- <img align="center" src="https://github.com/chairielazizi/chairielazizi/blob/master/photo_2019-09-07_21-28-45.jpg" alt="Just a pic" width=1000px height=700px/> --->
 
 
