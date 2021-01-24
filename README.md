@@ -1,4 +1,4 @@
-# Chairiel Azizi -- @chairielazizi 👋
+# Chairiel Azizi 👋
 
 <!--
 **chairielazizi/chairielazizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 photo_2019-09-07_21-28-45.jpg
 -->
 
-<img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Just a pic" width=360px height=415px/>
+<!--<img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Just a pic" width=360px height=415px/> --->
 
 
-- 🔭 I’m currently a second year student in Software Engineering course at University of Malaya,Malaysia.
-- 🌱 I’m currently learning frontend web development and databases management.
+- 🔭 I’m currently a second year student in Software Engineering Degree at University of Malaya,Malaysia.
+- 🌱 Currently learning frontend web development and databases management.
 - 👯 I’m looking to collaborate on any project, games development and mobile app as it can increase my knowledge in this field.
-- 🤔 I’m looking for help with learning the basic frameworks for CSS and JavaScript(perhaps Bootstrap 4 and ReactJS).
-- 📫 How to reach me: azizihr2000@gmail.com
 - 😄 Happy me? : A happy tummy is a happy me😎
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
 - 💻 Languages : Java, Node.js, Python, Go
-- 💀 Skills : MySQL, PostgreSQL, ReactJS
+- 💀 Skills : MySQL, PostgreSQL
 > "The way to get started is to quit talking and begin doing." -Walt Disney
 <br/>
 
@@ -38,18 +36,27 @@ photo_2019-09-07_21-28-45.jpg
 <br/>
 
 ## Get In Touch
-Instagram:  https://instagram.com/chairielazizi <br/>
+<!--Instagram:  https://instagram.com/chairielazizi <br/>
 Facebook: https://facebook.com/chairielazizi <br/>
 Twitter:  https://twitter.com/milisfuaim <br/>
-E-mail: azizihr2000@gmail.com <br/>
+E-mail: azizihr2000@gmail.com <br/> --->
 
+[<img align="left" alt="Facebook" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/facebook.png" />](https://facebook.com/chairielazizi)
+[<img align="left" alt="Instagram" width="49px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/ig.png" />](https://www.instagram.com/chairielazizi)
+[<img align="left" alt="Youtube" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/youtube.png" />](https://www.youtube.com/channel/UC80mb1uo-CeTnDv9rBjaEKQ)
+[<img align="left" alt="Gmail" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/gmail1.png" />](azizihr2000@gmail.com)
+[<img align="left" alt="Twitter" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/twitter.png" />](https://www.twitter.com/milisfuaim)
+
+<br/>
+<br/>
+<br/>
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
 <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width=1000px height=200px/>
 
 <img align="right" alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=jolly" />
 
-<img align="left" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=jolly&hide=Swift,Kotlin,Objective-C,HTML,Tex,c%23,jupyter%20notebook,&layout=compact" />
+<img align="left" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=jolly&hide=Swift,Kotlin,Objective-C,HTML,Tex,c%23,jupyter%20notebook,java&layout=compact" />
 <!-- <img align="center" src="https://github.com/chairielazizi/chairielazizi/blob/master/photo_2019-09-07_21-28-45.jpg" alt="Just a pic" width=1000px height=700px/> --->
 
 
