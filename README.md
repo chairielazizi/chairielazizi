@@ -24,8 +24,23 @@ photo_2019-09-07_21-28-45.jpg
 - 👯 I’m looking to collaborate on any project, games development and mobile app as it can increase my knowledge in this field.
 - 😄 Happy me? : A happy tummy is a happy me😎
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
-- 💻 Languages : Java, Node.js, Python, Go
-- 💀 Skills : MySQL, PostgreSQL
+
+💻 **Languages** : 
+
+<img height="43" width="43"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/java1.png" />&nbsp;
+<img height="43" width="39"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/nodejs1.png" />
+<img height="43" width="43"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/python.png" />
+<img height="43" width="43"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/golang.png" />
+<img height="43" width="43"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/php.png" />
+<img height="43" width="91"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/frontend1.jpg" />
+
+💀 **Skills** : 
+
+<img height="40" width="40"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/mysql.png" />&nbsp;
+<img height="40" width="40"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/pg.png" />
+
+<br/>
+
 > "The way to get started is to quit talking and begin doing." -Walt Disney
 <br/>
 
@@ -54,11 +69,16 @@ E-mail: azizihr2000@gmail.com <br/> --->
 
 <img align="right" alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=jolly" />
 
-<img align="left" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=jolly&hide=Swift,Kotlin,Objective-C,HTML,Tex,c%23,jupyter%20notebook,java&layout=compact" />
+<img align="left" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=jolly&hide=Swift,Kotlin,Objective-C,HTML,Tex,c%23,jupyter%20notebook&layout=compact" />
 
 <br/>
 <br/>
 <br/>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
