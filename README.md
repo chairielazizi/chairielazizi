@@ -41,8 +41,8 @@ photo_2019-09-07_21-28-45.jpg
 
 <br/>
 
-> "The way to get started is to quit talking and begin doing." -Walt Disney
-<br/>
+<!-- > "The way to get started is to quit talking and begin doing." -Walt Disney
+<br/> --->
 
 ## My Values
 👀 Beginner's minset and curiousity <br/>
@@ -78,7 +78,7 @@ E-mail: azizihr2000@gmail.com <br/> --->
 <br>
 <br>
 <br>
-<br>
+<br><br/><br/>
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
