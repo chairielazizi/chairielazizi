@@ -53,14 +53,16 @@ photo_2019-09-07_21-28-45.jpg
 ## Get In Touch
 <!--Instagram:  https://instagram.com/chairielazizi <br/>
 Facebook: https://facebook.com/chairielazizi <br/>
-Twitter:  https://twitter.com/milisfuaim <br/>
-E-mail: azizihr2000@gmail.com <br/> --->
+Twitter:  https://twitter.com/milisfuaim <br/> --->
+E-mail: azizihr2000@gmail.com <br/> 
 
 [<img align="" alt="Facebook" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/facebook.png" />](https://facebook.com/chairielazizi)
 [<img align="" alt="Instagram" width="49px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/ig.png" />](https://www.instagram.com/chairielazizi)
 [<img align="" alt="Youtube" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/youtube.png" />](https://www.youtube.com/channel/UC80mb1uo-CeTnDv9rBjaEKQ)
 [<img align="" alt="Gmail" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/gmail1.png" />](azizihr2000@gmail.com)
 [<img align="" alt="Twitter" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/twitter.png" />](https://www.twitter.com/milisfuaim)
+[<img align="" alt="Discord" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/discord.png" />](https://discordapp.com/users/464470476391972874)
+<!--https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=azizihr2000@gmail.com&continue=https://mail.google.com/mail/u/azizihr2000@gmail.com/?view=cm%26fs=1%26to=someone@example.com%26su=SUBJECT%26body=BODY%26bcc=someone.else@example.com--->
 
 <br/>
 <br/>
