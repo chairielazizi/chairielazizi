@@ -56,7 +56,7 @@ Facebook: https://facebook.com/chairielazizi <br/>
 Twitter:  https://twitter.com/milisfuaim <br/> --->
 E-mail: azizihr2000@gmail.com <br/> 
 
-[<img align="" alt="Facebook" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/linkedin.png" />](https://www.linkedin.com/in/chairiel-azizi-0892341b4)
+[<img align="" alt="LinkedIn" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/linkedin.png" />](https://www.linkedin.com/in/chairielazizi)
 [<img align="" alt="Facebook" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/facebook.png" />](https://facebook.com/chairielazizi)
 [<img align="" alt="Instagram" width="49px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/ig.png" />](https://www.instagram.com/chairielazizi)
 [<img align="" alt="Youtube" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/youtube.png" />](https://www.youtube.com/channel/UC80mb1uo-CeTnDv9rBjaEKQ)
