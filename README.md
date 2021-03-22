@@ -70,7 +70,7 @@ E-mail: azizihr2000@gmail.com <br/>
 <br/>
 <br/>
 
-<img align="left" alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=jolly" />
+<img align="left" alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true,prs?count_private=true&theme=jolly" />
 
 <img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=jolly&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,c%23,jupyter%20notebook&layout=compact&langs_count=10" />
 
