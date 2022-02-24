@@ -1,59 +1,39 @@
 # Chairiel Azizi 👋
 
-<!--
-**chairielazizi/chairielazizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  ![developer](https://t3.ftcdn.net/jpg/02/24/60/00/240_F_224600069_W7lxO3jE7CZ5s3izuhIoK5uSrDUz9x6W.jpg)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-photo_2019-09-07_21-28-45.jpg
--->
-
-<!--<img align="right" src="https://github.com/chairielazizi/chairielazizi/blob/master/myAvatar.svg" alt="Just a pic" width=360px height=415px/> --->
-
-
-- 🔭 I’m currently a second year student in Software Engineering Degree at University of Malaya,Malaysia.
-- 🌱 Currently learning frontend web development and databases management.
+- 🔭 I’m currently a third year student in Software Engineering Degree at University of Malaya,Malaysia.
+- 🌱 Currently learning frontend web development, database management, quality assurance and software testing.
 - 👯 I’m looking to collaborate on any project, games development and mobile app as it can increase my knowledge in this field.
 - 😄 Happy me? : A happy tummy is a happy me😎
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
 
 💻 **Languages** : 
 
-<img height="46" width="46"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/java1.png" />&nbsp;
-<img height="46" width="42"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/nodejs1.png" />
-<img height="46" width="46"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/python.png" />
-<img height="46" width="46"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/golang.png" />
-<img height="46" width="46"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/php.png" />
-<img height="46" width="94"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/frontend1.jpg" />
+<img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whitee" />&nbsp;
 
-💀 **Skills** : 
+💀 **Skills and Tools** : 
 
-<img height="46" width="46"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/mysql.png" />&nbsp;
-<img height="46" width="46"  src="https://github.com/chairielazizi/chairielazizi/blob/master/images/pg.png" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+<img align="left" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+<img align="left" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;
+<img align="left" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />&nbsp;
+<img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
 
 <br/>
 
 <!-- > "The way to get started is to quit talking and begin doing." -Walt Disney
 <br/> --->
 
-## My Values
+<!-- ## My Values
 👀 Beginner's minset and curiousity <br/>
 💕 Safety and trust <br/>
-🤙 Shared understanding and consensus <br/>
-<br/>
+🤙 Shared understanding and consensus <br/> -->
 
 ## Get In Touch
-<!--Instagram:  https://instagram.com/chairielazizi <br/>
-Facebook: https://facebook.com/chairielazizi <br/>
-Twitter:  https://twitter.com/milisfuaim <br/> --->
 E-mail: azizihr2000@gmail.com <br/> 
 
 [<img align="" alt="LinkedIn" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/linkedin.png" />](https://www.linkedin.com/in/chairielazizi)
@@ -67,12 +47,26 @@ E-mail: azizihr2000@gmail.com <br/>
 
 <br/>
 <br/>
-<br/>
+
+<p align="center">
+    <a href="https://github.com/nadvolod/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chairiel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chairielazizi&theme=vue-dark&hide_border=true"/>
+    </a>
+</p>
+
 <br/>
 
-<img align="left" alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true,prs?count_private=true&theme=jolly" />
+<img align="left" alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true,prs?count_private=true&theme=radical" />
 
-<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=jolly&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,c%23,jupyter%20notebook&layout=compact&langs_count=10" />
+<br/>
+
+<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,c%23,jupyter%20notebook&layout=compact&langs_count=10&hide_border=true" />
+
+<br/>
+<br/>
+<a href="https://github.com/nadvolod/github-readme-activity-graph">
+  <img alt="Chairiel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chairielazizi&bg_color=0D1117&theme=gotham&hide_border=true" />
+</a>
 
 <br/>
 
@@ -80,7 +74,4 @@ E-mail: azizihr2000@gmail.com <br/>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
 <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width=1000px height=200px/>
 
-
 <!-- <img align="center" src="https://github.com/chairielazizi/chairielazizi/blob/master/photo_2019-09-07_21-28-45.jpg" alt="Just a pic" width=1000px height=700px/> --->
-
-
