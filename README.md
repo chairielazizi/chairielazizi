@@ -1,6 +1,6 @@
 # Chairiel Azizi 👋
 
-- 🔭 I’m currently a third year student in Software Engineering Degree at University of Malaya,Malaysia.
+- 🔭 I’m currently a final year student in Software Engineering Degree at University of Malaya,Malaysia.
 - 🌱 Currently learning frontend web development, database management, quality assurance and software testing.
 - 👯 I’m looking to collaborate on any project, games development and mobile app as it can increase my knowledge in this field.
 - 😄 Happy me? : A happy tummy is a happy me😎
@@ -60,13 +60,13 @@ E-mail: azizihr2000@gmail.com <br/>
 
 <br/>
 
-<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,c%23,jupyter%20notebook&layout=compact&langs_count=10&hide_border=true" />
+<img align="right" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,c%23,jupyter%20notebook&layout=compact&langs_count=10&hide_border=true" />
 
 <br/>
 <br/>
-<a href="https://github.com/nadvolod/github-readme-activity-graph">
+<!--<a href="https://github.com/nadvolod/github-readme-activity-graph">
   <img alt="Chairiel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chairielazizi&bg_color=0D1117&theme=gotham&hide_border=true" />
-</a>
+</a>-->
 
 <br/>
 
