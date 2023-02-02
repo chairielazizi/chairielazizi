@@ -56,26 +56,27 @@ E-mail: azizihr2000@gmail.com <br/>
 
 <br/>
 
+<p align="center">
+<img alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true,prs?count_private=true&theme=radical" />
+</p>
 
-<img align="left" alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true,prs?count_private=true&theme=radical" />
+<br/>
 
+<p align="center">
+<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,c%23,jupyter%20notebook&layout=compact&langs_count=10&hide_border=true" />
+</p>
 
 <br/>
 
-
-<img align="right" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,c%23,jupyter%20notebook&layout=compact&langs_count=10&hide_border=true" />
-
-
-<br/>
-<br/>
 <!--<a href="https://github.com/nadvolod/github-readme-activity-graph">
   <img alt="Chairiel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chairielazizi&bg_color=0D1117&theme=gotham&hide_border=true" />
 </a>-->
 
-<br/>
+
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
+<br/>
 <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width=1000px height=200px/>
 
 <!-- <img align="center" src="https://github.com/chairielazizi/chairielazizi/blob/master/photo_2019-09-07_21-28-45.jpg" alt="Just a pic" width=1000px height=700px/> --->
