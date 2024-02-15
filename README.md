@@ -1,10 +1,10 @@
 # Chairiel Azizi 👋
 
 - 🔭 I’m currently a final year student in Software Engineering Degree at University of Malaya,Malaysia.
-- 🌱 Currently learning frontend web development, database management, quality assurance and software testing.
-- 👯 I’m looking to collaborate on any project, games development and mobile app as it can increase my knowledge in this field.
 - 😄 Happy me? : A happy tummy is a happy me😎
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
+<!--- 🌱 Currently learning frontend web development, database management, quality assurance and software testing. -->
+<!-- - 👯 I’m looking to collaborate on any project, games development and mobile app as it can increase my knowledge in this field. -->
 
 💻 **Languages** : 
 
@@ -37,11 +37,11 @@
 E-mail: azizihr2000@gmail.com <br/> 
 
 [<img align="" alt="LinkedIn" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/linkedin.png" />](https://www.linkedin.com/in/chairielazizi)
-[<img align="" alt="Facebook" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/facebook.png" />](https://facebook.com/chairielazizi)
-[<img align="" alt="Instagram" width="49px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/ig.png" />](https://www.instagram.com/chairielazizi)
+<!--[<img align="" alt="Facebook" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/facebook.png" />](https://facebook.com/chairielazizi)
+[<img align="" alt="Instagram" width="49px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/ig.png" />](https://www.instagram.com/chairielazizi) --->
 [<img align="" alt="Youtube" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/youtube.png" />](https://www.youtube.com/channel/UC80mb1uo-CeTnDv9rBjaEKQ)
 [<img align="" alt="Gmail" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/gmail1.png" />](azizihr2000@gmail.com)
-[<img align="" alt="Twitter" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/twitter.png" />](https://www.twitter.com/milisfuaim)
+<!-- [<img align="" alt="Twitter" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/twitter.png" />](https://www.twitter.com/milisfuaim) --->
 [<img align="" alt="Discord" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/discord.png" />](https://discordapp.com/users/464470476391972874)
 <!--https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=azizihr2000@gmail.com&continue=https://mail.google.com/mail/u/azizihr2000@gmail.com/?view=cm%26fs=1%26to=someone@example.com%26su=SUBJECT%26body=BODY%26bcc=someone.else@example.com--->
 
