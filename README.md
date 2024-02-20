@@ -34,7 +34,7 @@
 🤙 Shared understanding and consensus <br/> -->
 
 ## Get In Touch
-E-mail: azizihr2000@gmail.com <br/> 
+<!--E-mail: azizihr2000@gmail.com <br/> -->
 
 [<img align="" alt="LinkedIn" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/linkedin.png" />](https://www.linkedin.com/in/chairielazizi)
 [<img align="" alt="Youtube" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/youtube.png" />](https://www.youtube.com/channel/UC80mb1uo-CeTnDv9rBjaEKQ)
