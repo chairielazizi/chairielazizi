@@ -1,6 +1,7 @@
 # Chairiel Azizi 👋
 
-- 🔭 I’m currently a final year student in Software Engineering Degree at University of Malaya,Malaysia.
+<!-- - 🔭 I’m currently a final year student in Software Engineering Degree at University of Malaya,Malaysia. -->
+- 🌱 Currently a 0x18 years old human🔭
 - 😄 Happy me? : A happy tummy is a happy me😎
 - ⚡ Fun fact: During your lifetime, you will produce enough saliva to fill two swimming pools.😃
 <!--- 🌱 Currently learning frontend web development, database management, quality assurance and software testing. -->
