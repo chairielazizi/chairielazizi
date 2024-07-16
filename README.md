@@ -38,8 +38,8 @@
 <!--E-mail: azizihr2000@gmail.com <br/> -->
 
 [<img align="" alt="LinkedIn" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/linkedin.png" />](https://www.linkedin.com/in/chairielazizi)
-[<img align="" alt="Youtube" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/youtube.png" />](https://www.youtube.com/channel/UC80mb1uo-CeTnDv9rBjaEKQ)
-[<img align="" alt="Gmail" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/gmail1.png" />](azizihr2000@gmail.com)
+<!--[<img align="" alt="Youtube" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/youtube.png" />](https://www.youtube.com/channel/UC80mb1uo-CeTnDv9rBjaEKQ) --->
+<!--[<img align="" alt="Gmail" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/gmail1.png" />](azizihr2000@gmail.com) --->
 [<img align="" alt="Discord" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/discord.png" />](https://discordapp.com/users/464470476391972874)
 <!-- [<img align="" alt="Twitter" width="43px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/twitter.png" />](https://www.twitter.com/milisfuaim) --->
 <!--[<img align="" alt="Facebook" width="40px" src="https://github.com/chairielazizi/chairielazizi/blob/master/images/facebook.png" />](https://facebook.com/chairielazizi)
