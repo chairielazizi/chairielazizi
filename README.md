@@ -64,7 +64,7 @@
 <br/>
 
 <p align="center">
-<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,c%23,jupyter%20notebook&layout=compact&langs_count=10&hide_border=true" />
+<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,jupyter%20notebook,Python&layout=compact&langs_count=10&hide_border=true" />
 </p>
 
 <br/>
