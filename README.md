@@ -14,7 +14,7 @@
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whitee" />&nbsp;
+<img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;
 
 💀 **Skills and Tools** : 
 
@@ -63,8 +63,12 @@
 
 <br/>
 
-<p align="center">
+<!--<p align="center">
 <img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,jupyter%20notebook,Python&layout=compact&langs_count=10&hide_border=true" />
+</p> --->
+
+<p align="center">
+<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,ShaderLab,Tex,jupyter%20notebook,Python&layout=compact&langs_count=20&hide_border=true" />
 </p>
 
 <br/>
@@ -75,7 +79,7 @@
 
 
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
+<!-- <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
 <br/>
 <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width=1000px height=200px/>
