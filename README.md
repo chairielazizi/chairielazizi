@@ -46,6 +46,40 @@
 💕 Safety and trust <br/>
 🤙 Shared understanding and consensus <br/> -->
 
+## Personal Projects
+
+Here are some of my personal projects:
+
+#### 1. Legal Accounting System for SMEs
+A final year project title Legal Accounting System for SMEs built using Vue. Hosted on vercel. <br/>
+Github link: [View on GitHub](https://github.com/chairielazizi/Legal-Accounting-System-for-SMEs) <br/>
+Website link: https://legal-ace-sme.vercel.app/
+
+#### 2. Simple Portfolio Website
+A simple portfolio website built using ReactJS.<br/>
+Github link: [View on GitHub](https://github.com/chairielazizi/chairielazizi.github.io) <br/>
+Website link: https://aku.airiel.space/
+
+#### 3. MERN URL Shortener
+A URL shortener web app built using MERN stack (MongoDB, Express.js, React JS, Node.js) and Typescript, hosted on Render.<br/>
+Github link: [View on GitHub](https://github.com/chairielazizi/mern_url_shortener) <br/>
+Website link: https://mern-url-shortener-48rm.onrender.com/
+
+#### 4. Simple Notebook Web App
+A simple notebook web app built using MERN stack (MongoDB, Express.js, React JS, Node.js and Typescript), hosted on Render.<br/>
+Github link: [View on GitHub](https://github.com/chairielazizi/Simple-Notebook) <br/>
+Website link: https://simple-notebook-backend.onrender.com/
+
+#### 5. Expense Tracker
+Expense Tracker using ASP.NET Core MVC stack, hosted on Microsoft Azure.<br/>
+Github link: [View on GitHub](https://github.com/chairielazizi/ExpenseTracker) <br/>
+Website link: https://airielexpensetracker.azurewebsites.net/
+
+#### 6. Note List App
+A simple note lists app build with ASP.NET Core (MVC), hosted on Microsoft Azure.<br/>
+Github link: [View on GitHub](https://github.com/chairielazizi/NoteListApp) <br/>
+Website link: https://airielnotelist.azurewebsites.net/
+
 ## Get In Touch
 <!--E-mail: azizihr2000@gmail.com <br/> -->
 
