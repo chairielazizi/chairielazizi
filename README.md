@@ -52,7 +52,7 @@ Here are some of my personal projects:
 
 #### 1. Legal Accounting System for SMEs
 A final year project title Legal Accounting System for SMEs built using Vue. Hosted on vercel. <br/>
-Github link: [View on GitHub](https://github.com/chairielazizi/Legal-Accounting-System-for-SMEs) <br/>
+Github link: [View on GitHub](https://github.com/chairielazizi/legal-ace-sme) <br/>
 Website link: https://legal-ace-sme.vercel.app/
 
 #### 2. Simple Portfolio Website
