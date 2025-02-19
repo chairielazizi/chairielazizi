@@ -102,6 +102,15 @@ Website link: https://airielnotelist.azurewebsites.net/
 <br/>
 
 <p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-theta-lemon.vercel.app?user=chairielazizi&theme=vue-dark&hide_border=true&mode=weekly" alt="Chairiel's Weekly Streak" />
+    </a>
+</p>
+
+<br/>
+
+<!--
+<p align="center">
     <a href="https://github.com/nadvolod/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chairiel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chairielazizi&theme=vue-dark&hide_border=true"/>
     </a>
@@ -110,10 +119,20 @@ Website link: https://airielnotelist.azurewebsites.net/
 <br/>
 
 <p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=chairielazizi&theme=vue-dark&hide_border=true&mode=weekly" alt="Chairiel's weekly Streak" />
+    </a>
+</p>
+
+<br/>
+--->
+
+<p align="center">
 <img alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true,prs?count_private=true&theme=radical" />
 </p>
 
 <br/>
+
 
 <!--<p align="center">
 <img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,jupyter%20notebook,Python&layout=compact&langs_count=10&hide_border=true" />
