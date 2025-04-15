@@ -47,6 +47,7 @@
 💕 Safety and trust <br/>
 🤙 Shared understanding and consensus <br/> -->
 
+<!-- 
 ## Personal Projects
 
 Here are some of my personal projects:
@@ -66,20 +67,20 @@ An IMDB like website built using Next.js, Tailwind CSS, MongoDB and Clerk for au
 Github link: [View on GitHub](https://github.com/chairielazizi/nextjs_imdb) <br/>
 Website link: https://nextjs-imdb-rosy.vercel.app/
 
-<!-- #### 3. MERN URL Shortener
+#### 3. MERN URL Shortener
 A URL shortener web app built using MERN stack (MongoDB, Express.js, React JS, Node.js) and Typescript, hosted on Render.<br/>
 Github link: [View on GitHub](https://github.com/chairielazizi/mern_url_shortener) <br/>
-Website link: https://mern-url-shortener-48rm.onrender.com/ -->
+Website link: https://mern-url-shortener-48rm.onrender.com/
 
 #### 4. Mockup Ticketing System
 A mockup ticketing system web app built using Next JS, MongoDB, Tailwind CSS and Typescript hosted on Render.<br/>
 Github link: [View on GitHub](https://github.com/chairielazizi/nextjs_ticketing_system) <br/>
 Website link: https://nextjs-ticketing-system.onrender.com/
 
-<!-- #### 5. Simple Notebook Web App
+#### 5. Simple Notebook Web App
 A simple notebook web app built using MERN stack (MongoDB, Express.js, React JS, Node.js and Typescript), hosted on Render.<br/>
 Github link: [View on GitHub](https://github.com/chairielazizi/Simple-Notebook) <br/>
-Website link: https://simple-notebook-backend.onrender.com/ -->
+Website link: https://simple-notebook-backend.onrender.com/
 
 #### 5. Invoice App
 Built using C# ASP.NET Core MVC with TailwindCSS, hosted on MonsterASP.Net.<br/>
@@ -91,10 +92,14 @@ Expense Tracker using ASP.NET Core MVC stack, hosted on Microsoft Azure.<br/>
 Github link: [View on GitHub](https://github.com/chairielazizi/ExpenseTracker) <br/>
 Website link: https://airielexpensetracker.azurewebsites.net/
 
-<!-- #### 7. Note List App
+#### 7. Note List App
 A simple note lists app build with ASP.NET Core (MVC), hosted on Microsoft Azure.<br/>
 Github link: [View on GitHub](https://github.com/chairielazizi/NoteListApp) <br/>
-Website link: https://airielnotelist.azurewebsites.net/ -->
+Website link: https://airielnotelist.azurewebsites.net/ 
+
+-->
+
+
 
 ## Get In Touch
 <!--E-mail: azizihr2000@gmail.com <br/> -->
