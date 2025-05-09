@@ -33,6 +33,7 @@
 <img align="left" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;
 <img align="left" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff" />&nbsp;
 
+<img align="left" alt="intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whitef" />&nbsp;
 
 
 
@@ -40,6 +41,8 @@
 <br/>
 
 <!-- > "The way to get started is to quit talking and begin doing." -Walt Disney
+<img align="left" alt="intellij" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" />&nbsp;
+
 <img align="left" alt="azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />&nbsp;
 
 <img align="left" alt="laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;
