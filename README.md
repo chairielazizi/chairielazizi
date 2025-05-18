@@ -36,9 +36,12 @@
 <img align="left" alt="intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whitef" />&nbsp;
 <img align="left" alt="intellij" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" />&nbsp;
 
+
 <br/>
 
 <!-- > "The way to get started is to quit talking and begin doing." -Walt Disney
+
+<img align="left" alt="intellij" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp;
 
 <img align="left" alt="azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />&nbsp;
 
