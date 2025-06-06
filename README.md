@@ -103,9 +103,6 @@ Github link: [View on GitHub](https://github.com/chairielazizi/NoteListApp) <br/
 Website link: https://airielnotelist.azurewebsites.net/ 
 
 -->
-
-
-
 ## Get In Touch
 <!--E-mail: azizihr2000@gmail.com <br/> -->
 
@@ -153,7 +150,6 @@ Website link: https://airielnotelist.azurewebsites.net/
 
 <br/>
 
-
 <!--<p align="center">
 <img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,jupyter%20notebook,Python&layout=compact&langs_count=10&hide_border=true" />
 </p> --->
@@ -167,8 +163,6 @@ Website link: https://airielnotelist.azurewebsites.net/
 <!--<a href="https://github.com/nadvolod/github-readme-activity-graph">
   <img alt="Chairiel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chairielazizi&bg_color=0D1117&theme=gotham&hide_border=true" />
 </a>-->
-
-
 
 <!-- <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=300px height=180px margin-left="20px"/> 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=300px height=180px margin-left="20px" align="right"/>
