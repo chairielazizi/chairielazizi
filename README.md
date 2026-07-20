@@ -144,8 +144,12 @@ Website link: https://airielnotelist.azurewebsites.net/
 <br/>
 --->
 
+<!-- <p align="center">
+    <img alt="Chairiel Azizi's Github Stats" src="https://github-stats-extended.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true,prs?count_private=true&theme=radical" />
+</p> -->
+
 <p align="center">
-<img alt="Chairiel Azizi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chairielazizi&show_icons=true&hide_border=true,prs?count_private=true&theme=radical" />
+<img alt="Chairiel Azizi's Github Stats" src="https://github-stats-extended.vercel.app/api?username=chairielazizi&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&hide_border=true&theme=vue-dark" />
 </p>
 
 <br/>
@@ -154,8 +158,12 @@ Website link: https://airielnotelist.azurewebsites.net/
 <img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,Objective-C,ShaderLab,Tex,jupyter%20notebook,Python&layout=compact&langs_count=10&hide_border=true" />
 </p> --->
 
+<!-- <p align="center">
+<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,ShaderLab,Tex,jupyter%20notebook,Python&layout=compact&langs_count=20&hide_border=true" />
+</p> -->
+
 <p align="center">
-<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chairielazizi&theme=radical&hide=Swift,Kotlin,ShaderLab,Tex,jupyter%20notebook,Python&layout=compact&langs_count=20&hide_border=true" />
+<img align="" alt="Chairiel Azizi's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=chairielazizi&hide=Swift,Kotlin,ShaderLab,Tex,jupyter%20notebook,Python&layout=compact&langs_count=20&theme=vue-dark&hide_border=true" />
 </p>
 
 <br/>
